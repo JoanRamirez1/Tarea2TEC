@@ -3,6 +3,7 @@
 
 int main(){
 	//Logica
+	printf("Hola 2026\n");
 
 	return 0;
 }
