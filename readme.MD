@@ -31,3 +31,5 @@ Para escribir esta tipografia es muy parecido a la estrategia usada en whatsapp
 }
 
 '''
+#Formato de imagenes con link
+![Texto en caso de imagen borrada](https://cancunissimo.mx/wp-content/uploads/2025/05/narval-1024x682.webp)
